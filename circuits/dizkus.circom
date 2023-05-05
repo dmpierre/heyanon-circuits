@@ -1,7 +1,7 @@
 pragma circom 2.0.2;
 
-include "../circom-ecdsa/circuits/ecdsa.circom";
-include "../circom-ecdsa/circuits/zk-identity/eth.circom";
+// include "../circom-ecdsa/circuits/ecdsa.circom";
+// include "../circom-ecdsa/circuits/zk-identity/eth.circom";
 include "./merkle.circom";
 
 /*
